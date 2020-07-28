@@ -29,4 +29,4 @@ All the files for this analysis can be found in the **Pymaceuticals** folder. Th
 
 Some of the x-axis functionality seemed temperamental; sometimes it worked and other times it would cause an error. Those have been commented out in the jupyter notebook.
 
-One mouse had multiple entries for the same timeoints so that mouse was removed from the analysis data making the total mouse count 248.
+One mouse had multiple entries for the same timepoints so that mouse was removed from the analysis data making the total mouse count 248.
